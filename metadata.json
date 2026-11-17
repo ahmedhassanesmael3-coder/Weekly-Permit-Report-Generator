@@ -1,0 +1,8 @@
+{
+  "name": "Weekly Permit Report Generator",
+  "description": "Generate GASCO Instrumentation & Control weekly permit activity summaries and publication-ready LaTeX reports from permit photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
